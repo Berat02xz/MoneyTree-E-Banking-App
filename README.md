@@ -19,8 +19,6 @@
 
 ![Gif Animation Short 2](https://github.com/BeratAhmetaj/MoneyTree/blob/main/README-Misc/second.gif)
 
-Reality Capture е напреден софтвер за фотограметрија кој го користи принципот на компјутерска видеообработка за да ги претвори сликите во тродимензионален модел. Овој софтвер ви овозможува да ги процесирате сликите од смартфонот и да креирате 3D модел од нив. Reality Capture автоматски ги анализира сликите и креира 3D модел со висок детал. Потоа, можете да го користите на вашиот компјутер за да го подобрите и изгладите моделот.
-
 [Видео Реклама за Проектот](https://www.youtube.com/watch?v=Pz2sTQ-xNKk)
 
  # **Детална Документација на Проектот:** [Документ](https://github.com/BeratAhmetaj/MoneyTree/blob/main/PROJECT%20DOCUMENTATION.pdf)
