@@ -1,30 +1,29 @@
-# MoneyTree
 ![MoneyTreeIntroAnimation](https://github.com/BeratAhmetaj/MoneyTree/blob/main/README-Misc/intro.gif)
 
-**Проект за Државна Матура**
+# Project for High School State Matura
 
-
-**Цел на проектот:**
-Со истражувањето на 'Институтот за развој на електронски комуникации', откриваме дека само 2 од 14 банки во Македонија нудат мобилна апликација што овозможува безготовинско плаќање преку NFC стандардот. За да испратиме гласност во оваа област, создаваме 'MoneyTree' - симулирана веб-апликација за е-банкарство. Од главната страница до корисничките поставки, безбедноста и оптимизацијата се нашиот примарен фокус. Вдишана од творечкиот ум на Кендрик Ламар, 'MoneyTree' има за цел да ви овозможи управување со парите како што ги одгледувате на дрвја - лесно и едноставно."
+### Project Goal
+According to research conducted by the 'Institute for the Development of Electronic Communications,' only 2 out of 14 banks in Macedonia offer a mobile application that enables cashless payments via the NFC standard. To raise awareness in this area, we created 'MoneyTree' - a simulated e-banking web application. From the homepage to user settings, security and optimization are our primary focus. Inspired by the creative mind of Kendrick Lamar, 'MoneyTree' aims to let you manage money as if you were growing it on trees - easily and simply.
 
 ![Gif Animation Short](https://github.com/BeratAhmetaj/MoneyTree/blob/main/README-Misc/first.gif)
 
-Нашата веб-апликација претставува сè-во-едно решение за преглед на финансиските трансакции, искористувајќи го разработениот структурен модел на податоци. Оваа платформа обезбедува историски записи на трансакции, што може да се прегледаат и манипулираат од страна на корисникот.
+### Features
+Our web application is an all-in-one solution for viewing financial transactions, utilizing a robust data structure model. This platform provides historical transaction records that users can view and manipulate.
 
-Корисниците имаат моќ да ги манипулираат своите трансакции, било со сортирање, барање или преглед на специфични трансакции. Сè ова е постигнато преку сложена интеграција на база на податоци и JavaScript на клиентска страна за точно и безбедно прикажување на информациите.
+**Key Features:**
+- **Transaction Management:** Users can sort, search, and view specific transactions.
+- **Database Integration:** Complex integration of a database with client-side JavaScript ensures accurate and secure information display.
 
-Овој проект е резултат на интензивни напори и труд, составен од 6,930 линии код, 30 слики и 3 видеа. За мене, и покрај обимот на работа, најголема придобивка беше знаењето кое го стекнав. Преку овој проект, научив како да поврзам бази на податоци со веб-страници, да програмирам во PHP и да користам JavaScript библиотеки.
+### Development Insights
+This project is the result of intensive effort, comprising 6,930 lines of code, 30 images, and 3 videos. Despite the workload, the greatest benefit was the knowledge gained. Through this project, I learned how to connect databases to web pages, program in PHP, and use JavaScript libraries.
 
-Меѓутоа, сите овие напори и часови на учење беа во исклучителна мера инспирирани од песната 'MoneyTrees' од Кендрик Ламар. Таа ме поттикна да го реализирам овој проект, што сега се надевам дека ке го споделам со останатите со иста страст и вдиш. "
+All these efforts and hours of learning were greatly inspired by the song 'MoneyTrees' by Kendrick Lamar. It motivated me to realize this project, which I now hope to share with others with the same passion and inspiration.
 
 ![Gif Animation Short 2](https://github.com/BeratAhmetaj/MoneyTree/blob/main/README-Misc/second.gif)
 
-[Видео Реклама за Проектот](https://www.youtube.com/watch?v=Pz2sTQ-xNKk)
+### Additional Resources
+[Video Advertisement for the Project](https://www.youtube.com/watch?v=Pz2sTQ-xNKk)
 
- # **Детална Документација на Проектот:** [Документ](https://github.com/BeratAhmetaj/MoneyTree/blob/main/PROJECT%20DOCUMENTATION.pdf)
+## Detailed Project Documentation
+[Document](https://github.com/BeratAhmetaj/MoneyTree/blob/main/PROJECT%20DOCUMENTATION.pdf)
 
-**Автори:**
-- Berat Ahmetaj (IV-5)
-
-**Ментор:** 
-- Проф.Поликсена Митева
