@@ -1,6 +1,6 @@
 ![MoneyTreeIntroAnimation](https://github.com/BeratAhmetaj/MoneyTree/blob/main/README-Misc/intro.gif)
 
-# Project for High School State Matura
+# High School Graduation Project (State Matura)
 
 ### Project Goal
 According to research conducted by the 'Institute for the Development of Electronic Communications,' only 2 out of 14 banks in Macedonia offer a mobile application that enables cashless payments via the NFC standard. To raise awareness in this area, we created 'MoneyTree' - a simulated e-banking web application. From the homepage to user settings, security and optimization are our primary focus. Inspired by the creative mind of Kendrick Lamar, 'MoneyTree' aims to let you manage money as if you were growing it on trees - easily and simply.
